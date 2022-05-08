@@ -12,5 +12,8 @@ public class Main {
         melon.printTheNumberOfSeeds();
         String colourOfMelon = melon.getMelonColour();
         System.out.println("Melon ma kolor " + colourOfMelon);
+        
     }
+
+
 }
