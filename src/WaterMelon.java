@@ -29,7 +29,7 @@ public class WaterMelon {
     // Dod napisz junit w którym testujesz ilość zwracanych nasion//
 
     public String getMelonSeeds(boolean isMelonYoung) {
-        System.out.println("checking for number of melon seeds " + isMelonYoung);
+        System.out.println("checking for the number of melon seeds " + isMelonYoung);
         if (isMelonYoung) {
             System.out.println("Melon is young - there is no seeds");
             return "no seeds";
